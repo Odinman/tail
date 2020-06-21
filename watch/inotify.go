@@ -10,7 +10,7 @@ import (
 
 	"github.com/Odinman/tail/util"
 
-	"gopkg.in/fsnotify/fsnotify.v1"
+	"github.com/fsnotify/fsnotify"
 	"gopkg.in/tomb.v1"
 )
 
